@@ -2656,7 +2656,7 @@ span.skill {
 
 #default_theme .banner_slider {
 	min-height: 270px;
-	background-image: url('../images/inner_banner_bg.png');
+	background-image: url('../images/sobre nos.jpg');
 	background-position: center center;
 }
 
@@ -3615,14 +3615,14 @@ footer ul.social_icons {
 }
 
 .inner_banner_section {
-	background: url('../images/it_service/inner_page_banner.jpg');
+	background: url('../images/sobre nos.jpg');
 	min-height: 245px;
 	background-size: cover;
 	background-position: center center;
 }
 
 .cleaning .inner_banner_section {
-	background: url('../images/cleaning_service/inner_page_banner.jpg');
+	background: url('../images/sobre nos.jpg');
 	min-height: 245px;
 	background-size: cover;
 	background-position: top center;
