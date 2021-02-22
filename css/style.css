@@ -3209,13 +3209,13 @@ span.skill {
 	-------------------------------------------------------------------*/
 
 .testmonial_section {
-	background-image: url('../images/it_service/test_bg.png');
+	background-image: url('../images/it_service/test_bg.jpg');
 	background-size: cover;
 	padding-bottom: 185px;
 }
 
 .cleaning .testmonial_section {
-	background-image: url('../images/cleaning_service/test_bg.png');
+	background-image: url('../images/cleaning_service/test_bg.jpg');
 	background-size: cover;
 	padding-bottom: 185px;
 }
@@ -3620,6 +3620,30 @@ footer ul.social_icons {
 	background-size: cover;
 	background-position: center center;
 }
+
+.inner_banner_section_branding {
+	background: url('../images/sobre nos.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+
+
+.inner_banner_section_grafica {
+	background: url('../images/grafica.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+
+
+.inner_banner_section_procurement {
+	background: url('../images/procurement.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+
 
 .cleaning .inner_banner_section {
 	background: url('../images/sobre nos.jpg');
